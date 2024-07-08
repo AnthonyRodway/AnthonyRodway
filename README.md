@@ -1,10 +1,8 @@
-### 👋 Hello, my name is Anthony 👋🏿
+Hello, I am Anthony, a Software Engineer (in training, legally), graduated from the University of Victoria in 2024.
 
-### 🕹 I’m interested in software and game developement
+I have a soft specialization in GIS software development and analysis, and have dipped the toes in other areas like animation, game development, full-stack development and security.
 
-### 🏫 I’m currently a software engineering student, and in the future hope to utilize my skills for a fun engineering or game development position
-
-### 📫 How to reach me - you can send me an email at anthonydavvid@gmail.com if you wanted to reach me for some reason :)
+You can send me an email at anthonydavvid@gmail.com if you wanted to reach me for some reason :)
 
 <!---
 AnthonyRodway/AnthonyRodway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
